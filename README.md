@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Sonams's github stats](https://github-readme-stats.vercel.app/api?username=sonamghosh)](https://github.com/anuraghazra/github-readme-stats)
+[![Sonams's github stats](https://github-readme-stats.vercel.app/api?username=sonamghosh&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
